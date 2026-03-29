@@ -1,0 +1,15 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# Streamlit and build artifacts
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
